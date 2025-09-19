@@ -13,16 +13,6 @@ A one-stop tool for cricket fans to follow **live matches** and get **real-time 
 
 ---
 
-## Screenshots
-
-*Add screenshots here once your UI is ready.*
-
----
-
-## Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript (or React if using a framework)  
-- **Backend**: Node.js / Python / Flask / Express (depending on your choice)  
 - **APIs**:  
   - [CricAPI](https://www.cricapi.com/) for live cricket match data  
   - [NewsAPI](https://newsapi.org/) for news articles about cricket teams
